@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7aff134-4412-40fa-82ce-37a5ba2f7108" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UCsxB69mOkFLVYlArecZc5Y9Eo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Browser_Tests(System Variable 4 WebDriver Path)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])" module-name="Code" is-module-sdk="true">
+        <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Code" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\juan.cordoba\Desktop\Python-Automation\Code\Browser_Tests(System Variable 4 WebDriver Path)" />
+      <recent name="C:\Users\juan.cordoba\Desktop\Python-Automation\Code" />
+      <recent name="C:\Users\juan.cordoba\Desktop\Python-Automation\Code\Browser_Tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.FindListOfElementsChrome">
+    <configuration name="ClassDemo2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/ClassDemo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ClassDemo3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/ClassDemo3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ejercicio" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/Ejercicio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExceptionEjercicio" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/ExceptionEjercicio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exceptions" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/Exceptions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exceptions2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/Exceptions2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="File2Read" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/File2Read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="File_IO" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/File_IO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FindByClassTagNameChrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Browser_Tests(System Variable 4 WebDriver Path)/FindByClassTagNameChrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FindByClassTagNameFirefox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Browser_Tests(System Variable 4 WebDriver Path)/FindByClassTagNameFirefox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FindByIdNameChrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Browser_Tests(System Variable 4 WebDriver Path)/FindByIdNameChrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FindListOfElementsChrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Browser_Tests(System Variable 4 WebDriver Path)/FindListOfElementsChrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FindListOfElementsFirefox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Browser_Tests(System Variable 4 WebDriver Path)/FindListOfElementsFirefox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ModulesPython" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/ModulesPython.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WtihASDemo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/WtihASDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juan.cordoba\Code\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ClassDemo2" />
+      <item itemvalue="Python.ClassDemo3" />
+      <item itemvalue="Python.Exceptions" />
+      <item itemvalue="Python.Exceptions2" />
+      <item itemvalue="Python.Ejercicio" />
+      <item itemvalue="Python.ExceptionEjercicio" />
+      <item itemvalue="Python.ModulesPython" />
+      <item itemvalue="Python.File_IO" />
+      <item itemvalue="Python.File2Read" />
+      <item itemvalue="Python.WtihASDemo" />
+      <item itemvalue="Python.FindByIdNameChrome" />
+      <item itemvalue="Python.FindByClassTagNameChrome" />
+      <item itemvalue="Python.FindByClassTagNameFirefox" />
+      <item itemvalue="Python.FindListOfElementsChrome" />
+      <item itemvalue="Python.FindListOfElementsFirefox" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FindListOfElementsChrome" />
+        <item itemvalue="Python.FindListOfElementsFirefox" />
+        <item itemvalue="Python.FindByClassTagNameFirefox" />
+        <item itemvalue="Python.FindByClassTagNameChrome" />
+        <item itemvalue="Python.FindByIdNameChrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7aff134-4412-40fa-82ce-37a5ba2f7108" name="Default Changelist" comment="" />
+      <created>1574872155388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574872155388</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="12" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577730572615">
+      <screen x="0" y="0" width="1117" height="853" />
+    </state>
+    <state x="12" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1117.853@0.0.1117.853" timestamp="1577730572615" />
+    <state x="272" y="230" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1576873424627">
+      <screen x="0" y="0" width="1117" height="853" />
+    </state>
+    <state x="272" y="230" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1117.853@0.0.1117.853" timestamp="1576873424627" />
+    <state x="226" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577751220356">
+      <screen x="0" y="0" width="1117" height="853" />
+    </state>
+    <state x="226" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1117.853@0.0.1117.853" timestamp="1577751220356" />
+    <state x="288" y="123" key="FileChooserDialogImpl" timestamp="1577730571193">
+      <screen x="0" y="0" width="1117" height="853" />
+    </state>
+    <state x="288" y="123" key="FileChooserDialogImpl/0.0.1117.853@0.0.1117.853" timestamp="1577730571193" />
+    <state width="1165" height="143" key="GridCell.Tab.0.bottom" timestamp="1579200232886">
+      <screen x="0" y="0" width="1192" height="629" />
+    </state>
+    <state width="1090" height="284" key="GridCell.Tab.0.bottom/0.0.1117.853@0.0.1117.853" timestamp="1579044710228" />
+    <state width="1090" height="267" key="GridCell.Tab.0.bottom/0.0.1117.854@0.0.1117.854" timestamp="1577457189038" />
+    <state width="1165" height="143" key="GridCell.Tab.0.bottom/0.0.1192.629@0.0.1192.629" timestamp="1579200232886" />
+    <state width="1648" height="287" key="GridCell.Tab.0.bottom/1920.0.1676.902/0.0.1676.902@0.0.1676.902" timestamp="1578935684215" />
+    <state width="1648" height="163" key="GridCell.Tab.0.bottom/1920.0.1676.902/0.0.1676.902@1920.0.1676.902" timestamp="1576793609579" />
+    <state width="1165" height="143" key="GridCell.Tab.0.center" timestamp="1579200232886">
+      <screen x="0" y="0" width="1192" height="629" />
+    </state>
+    <state width="1090" height="284" key="GridCell.Tab.0.center/0.0.1117.853@0.0.1117.853" timestamp="1579044710228" />
+    <state width="1090" height="267" key="GridCell.Tab.0.center/0.0.1117.854@0.0.1117.854" timestamp="1577457189038" />
+    <state width="1165" height="143" key="GridCell.Tab.0.center/0.0.1192.629@0.0.1192.629" timestamp="1579200232886" />
+    <state width="1648" height="287" key="GridCell.Tab.0.center/1920.0.1676.902/0.0.1676.902@0.0.1676.902" timestamp="1578935684215" />
+    <state width="1648" height="163" key="GridCell.Tab.0.center/1920.0.1676.902/0.0.1676.902@1920.0.1676.902" timestamp="1576793609579" />
+    <state width="1165" height="143" key="GridCell.Tab.0.left" timestamp="1579200232886">
+      <screen x="0" y="0" width="1192" height="629" />
+    </state>
+    <state width="1090" height="284" key="GridCell.Tab.0.left/0.0.1117.853@0.0.1117.853" timestamp="1579044710228" />
+    <state width="1090" height="267" key="GridCell.Tab.0.left/0.0.1117.854@0.0.1117.854" timestamp="1577457189038" />
+    <state width="1165" height="143" key="GridCell.Tab.0.left/0.0.1192.629@0.0.1192.629" timestamp="1579200232886" />
+    <state width="1648" height="287" key="GridCell.Tab.0.left/1920.0.1676.902/0.0.1676.902@0.0.1676.902" timestamp="1578935684215" />
+    <state width="1648" height="163" key="GridCell.Tab.0.left/1920.0.1676.902/0.0.1676.902@1920.0.1676.902" timestamp="1576793609579" />
+    <state width="1165" height="143" key="GridCell.Tab.0.right" timestamp="1579200232886">
+      <screen x="0" y="0" width="1192" height="629" />
+    </state>
+    <state width="1090" height="284" key="GridCell.Tab.0.right/0.0.1117.853@0.0.1117.853" timestamp="1579044710228" />
+    <state width="1090" height="267" key="GridCell.Tab.0.right/0.0.1117.854@0.0.1117.854" timestamp="1577457189038" />
+    <state width="1165" height="143" key="GridCell.Tab.0.right/0.0.1192.629@0.0.1192.629" timestamp="1579200232886" />
+    <state width="1648" height="287" key="GridCell.Tab.0.right/1920.0.1676.902/0.0.1676.902@0.0.1676.902" timestamp="1578935684215" />
+    <state width="1648" height="163" key="GridCell.Tab.0.right/1920.0.1676.902/0.0.1676.902@1920.0.1676.902" timestamp="1576793609579" />
+    <state width="1165" height="168" key="GridCell.Tab.1.bottom" timestamp="1579109452665">
+      <screen x="0" y="0" width="1192" height="629" />
+    </state>
+    <state width="1165" height="168" key="GridCell.Tab.1.bottom/0.0.1192.629@0.0.1192.629" timestamp="1579109452665" />
+    <state width="1165" height="168" key="GridCell.Tab.1.center" timestamp="1579109452665">
+      <screen x="0" y="0" width="1192" height="629" />
+    </state>
+    <state width="1165" height="168" key="GridCell.Tab.1.center/0.0.1192.629@0.0.1192.629" timestamp="1579109452665" />
+    <state width="1165" height="168" key="GridCell.Tab.1.left" timestamp="1579109452665">
+      <screen x="0" y="0" width="1192" height="629" />
+    </state>
+    <state width="1165" height="168" key="GridCell.Tab.1.left/0.0.1192.629@0.0.1192.629" timestamp="1579109452665" />
+    <state width="1165" height="168" key="GridCell.Tab.1.right" timestamp="1579109452665">
+      <screen x="0" y="0" width="1192" height="629" />
+    </state>
+    <state width="1165" height="168" key="GridCell.Tab.1.right/0.0.1192.629@0.0.1192.629" timestamp="1579109452665" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1578441220287">
+      <screen x="0" y="0" width="1117" height="853" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1117.853@0.0.1117.853" timestamp="1578441220287" />
+    <state x="486" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1578935767511">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="324" y="219" key="com.intellij.ide.util.TipDialog/0.0.1117.853@0.0.1117.853" timestamp="1578432418997" />
+    <state x="486" y="232" key="com.intellij.ide.util.TipDialog/1920.0.1676.902/0.0.1676.902@0.0.1676.902" timestamp="1578935767511" />
+    <state x="2406" y="232" key="com.intellij.ide.util.TipDialog/1920.0.1676.902/0.0.1676.902@1920.0.1676.902" timestamp="1576165408413" />
+    <state x="213" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579036878390">
+      <screen x="0" y="0" width="1117" height="853" />
+    </state>
+    <state x="213" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1117.853@0.0.1117.853" timestamp="1579036878390" />
+    <state width="750" height="300" key="javadoc.popup" timestamp="1578941937864">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="750" height="300" key="javadoc.popup/1920.0.1676.902/0.0.1676.902@0.0.1676.902" timestamp="1578941937864" />
+    <state x="137" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1577129590559">
+      <screen x="0" y="0" width="1117" height="853" />
+    </state>
+    <state x="137" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1117.853@0.0.1117.853" timestamp="1577129590559" />
+  </component>
+</project>
