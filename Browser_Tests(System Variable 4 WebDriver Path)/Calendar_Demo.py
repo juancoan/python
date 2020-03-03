@@ -19,7 +19,7 @@ class BrowserInteractions():
         time.sleep(3)
 
         #Seleting the date
-        DateToDepart = driver.find_element_by_xpath("//button[contains(text(),'29')]//span[contains(text(),'February')]")
+        DateToDepart = driver.find_element_by_xpath("//button[contains(text(),'29')]//span[contains(text(),'March')]")
         DateToDepart.click()
 
         time.sleep(3)
