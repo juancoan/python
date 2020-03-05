@@ -1,0 +1,611 @@
+<html class=" video no-videoautoplay"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <link href="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:32,height:32/https://d2vvqscadf4c1f.cloudfront.net/FZtjD7hRSMmkWzKP5kMO_LetsKodeIt%20-%20Main%20Logo.JPG" rel="icon" type="image/png">
+<link href="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:72,height:72/https://d2vvqscadf4c1f.cloudfront.net/FZtjD7hRSMmkWzKP5kMO_LetsKodeIt%20-%20Main%20Logo.JPG" rel="apple-touch-icon" type="image/png">
+<link href="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:144,height:144/https://d2vvqscadf4c1f.cloudfront.net/FZtjD7hRSMmkWzKP5kMO_LetsKodeIt%20-%20Main%20Logo.JPG" rel="apple-touch-icon" type="image/png">
+<link href="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:320,height:345/https://www.filepicker.io/api/file/vaUu9fNQa2qVhk0nw73U" rel="apple-touch-startup-image" type="image/png">
+<link href="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:640,height:690/https://www.filepicker.io/api/file/vaUu9fNQa2qVhk0nw73U" rel="apple-touch-startup-image" type="image/png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta charset="UTF-8">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="B1XEGLTuj6iCsDes+azdGZZJ2/htf4hVOdw2IEht1v7gvZC6elQN+KUcKAdFrpIjVnEAGDiuawG1Egm67AJRVQ==">
+<link rel="stylesheet" media="screen" href="https://fedora.teachablecdn.com/assets/bootstrap-31ff648fd5e6158c77c31e785844877b6666554feab422e57ca5a96aa5587b9e.css" data-turbolinks-track="true"><link href="https://themes2.teachablecdn.com/themecss/production/base.css?_=4f096ab9d3f6&amp;brand_course_heading=%23ffffff&amp;brand_heading=%232b3636&amp;brand_homepage_heading=%23ffffff&amp;brand_navbar_fixed_text=%23ffffff&amp;brand_navbar_text=%23ffffff&amp;brand_primary=%232b3636&amp;brand_secondary=%2309A59A&amp;brand_text=%232b3636&amp;logged_out_homepage_background_image_overlay=0.0" rel="stylesheet" data-turbolinks-track="true">
+<title>Practice | Let's Kode It</title>
+<link rel="canonical" href="https://learn.letskodeit.com/p/practice">
+<meta property="og:title" content="Practice">
+<meta property="og:url" content="https://learn.letskodeit.com/p/practice">
+<meta property="og:image" content="https://www.filepicker.io/api/file/WSundQ6BT6u2OZe2kcNA">
+<meta name="twitter:title" content="Practice">
+<meta name="twitter:image" content="https://www.filepicker.io/api/file/WSundQ6BT6u2OZe2kcNA">
+<meta name="brand_video_player_color" content="#ff3f20">
+<meta name="site_title" content="Let's Kode It">
+<style></style>
+<script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ecommerce.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" id="analytics-js" type="text/javascript" src="/analytics.js"></script><script type="text/javascript" async="" src="https://api.filestackapi.com/filestack.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/vJuUWXolyYJx1oqUVmpPuryQ/recaptcha__es_419.js"></script><script src="//fast.wistia.com/assets/external/E-v1.js"></script><style id="wistia_18_style" type="text/css" class="wistia_injected_style">
+@font-face {
+font-family: 'WistiaPlayerOverpassNumbers';
+src: url(data:application/x-font-ttf;charset=utf-8;base64,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);
+}
+</style>
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+
+
+      <meta name="asset_host" content="https://fedora.teachablecdn.com">
+     <script src="https://fedora.teachablecdn.com/assets/application-9a0de2cbb001d2acca49c9fb9aaba4297c3c203f94ea6c07a139f2572c96c6e8.js" data-turbolinks-track="true"></script><link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"><script src="https://fedora.teachablecdn.com/packs/student-9e6b1f2c50be49af4d33.js"></script><style type="text/css">:root{--evergreen:#004d40;--pine:#00746a;--green-machine:#009689;--money:#1ea69a;--matcha:#20bdaf;--caribbean:#52dccb;--seafoam:#b7f1ea;--minty-fresh:#dffff9;--sage:#f1fffc;--toothpaste:#f9fefd;--poppy:#e9573d;--melon:#f17e69;--peach:#ffb393;--apricat:#fbebe0;--sun-kissed:#fff6f0;--sunshine-daisy:#ffad00;--lemon-meringue:#ffc525;--yellow-submarine:#ffdd80;--butter:#ffeab2;--zest:#fff7e0;--royal:#204bbf;--cobalt:#1f6cde;--whale:#0f9fff;--dreamy:#91d0ff;--icy:#f4faff;--regal:#2021ab;--grape:#4c3edc;--snozzberry:#6172e9;--lavender:#b1c1f8;--purple-rain:#eeefff;--red-carpet:#b30000;--red-herring:#c00;--rose:#fcc;--tickled-pink:#ffe5e5;--blush:#fff5f5;--squid-ink:#212338;--midnight:#292c44;--dark-and-stormy:#343854;--plumette:#4a4e6d;--slate:#6b6d7c;--nebulous:#9294a0;--concrete:#b9b9c0;--magic:#cbcbd0;--grey-area:#e2e2e9;--subtle:#efeff5;--fog:#f5f5f8;--cloud:#fdfdfe;--clinical:#fff}html body .visually-hidden{position:absolute!important;height:1px;width:1px;overflow:hidden;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px)}html body .v-middle{vertical-align:middle}html body .dsp-block-xs{display:block}html body .dsp-inline-xs{display:inline}html body .dsp-inline-block-xs{display:inline-block}html body .dsp-none-xs{display:none}html body .text-left-xs{text-align:left}html body .text-right-xs{text-align:right}html body .text-center-xs{text-align:center}html body .float-left-xs{float:left}html body .float-right-xs{float:right}html body .float-none-xs{float:none}html body .p-t-0-xs{padding-top:0}html body .p-r-0-xs{padding-right:0}html body .p-b-0-xs{padding-bottom:0}html body .p-l-0-xs{padding-left:0}html body .p-h-0-xs{padding-left:0;padding-right:0}html body .p-v-0-xs{padding-top:0;padding-bottom:0}html body .p-0-xs{padding:0}html body .m-t-0-xs{margin-top:0}html body .m-r-0-xs{margin-right:0}html body .m-b-0-xs{margin-bottom:0}html body .m-l-0-xs{margin-left:0}html body .m-h-0-xs{margin-left:0;margin-right:0}html body .m-v-0-xs{margin-top:0;margin-bottom:0}html body .p-t-1-xs{padding-top:4px}html body .p-r-1-xs{padding-right:4px}html body .p-b-1-xs{padding-bottom:4px}html body .p-l-1-xs{padding-left:4px}html body .p-h-1-xs{padding-left:4px;padding-right:4px}html body .p-v-1-xs{padding-top:4px;padding-bottom:4px}html body .p-1-xs{padding:4px}html body .m-t-1-xs{margin-top:4px}html body .m-r-1-xs{margin-right:4px}html body .m-b-1-xs{margin-bottom:4px}html body .m-l-1-xs{margin-left:4px}html body .m-h-1-xs{margin-left:4px;margin-right:4px}html body .m-v-1-xs{margin-top:4px;margin-bottom:4px}html body .p-t-2-xs{padding-top:8px}html body .p-r-2-xs{padding-right:8px}html body .p-b-2-xs{padding-bottom:8px}html body .p-l-2-xs{padding-left:8px}html body .p-h-2-xs{padding-left:8px;padding-right:8px}html body .p-v-2-xs{padding-top:8px;padding-bottom:8px}html body .p-2-xs{padding:8px}html body .m-t-2-xs{margin-top:8px}html body .m-r-2-xs{margin-right:8px}html body .m-b-2-xs{margin-bottom:8px}html body .m-l-2-xs{margin-left:8px}html body .m-h-2-xs{margin-left:8px;margin-right:8px}html body .m-v-2-xs{margin-top:8px;margin-bottom:8px}html body .p-t-3-xs{padding-top:16px}html body .p-r-3-xs{padding-right:16px}html body .p-b-3-xs{padding-bottom:16px}html body .p-l-3-xs{padding-left:16px}html body .p-h-3-xs{padding-left:16px;padding-right:16px}html body .p-v-3-xs{padding-top:16px;padding-bottom:16px}html body .p-3-xs{padding:16px}html body .m-t-3-xs{margin-top:16px}html body .m-r-3-xs{margin-right:16px}html body .m-b-3-xs{margin-bottom:16px}html body .m-l-3-xs{margin-left:16px}html body .m-h-3-xs{margin-left:16px;margin-right:16px}html body .m-v-3-xs{margin-top:16px;margin-bottom:16px}html body .p-t-4-xs{padding-top:24px}html body .p-r-4-xs{padding-right:24px}html body .p-b-4-xs{padding-bottom:24px}html body .p-l-4-xs{padding-left:24px}html body .p-h-4-xs{padding-left:24px;padding-right:24px}html body .p-v-4-xs{padding-top:24px;padding-bottom:24px}html body .p-4-xs{padding:24px}html body .m-t-4-xs{margin-top:24px}html body .m-r-4-xs{margin-right:24px}html body .m-b-4-xs{margin-bottom:24px}html body .m-l-4-xs{margin-left:24px}html body .m-h-4-xs{margin-left:24px;margin-right:24px}html body .m-v-4-xs{margin-top:24px;margin-bottom:24px}html body .p-t-5-xs{padding-top:32px}html body .p-r-5-xs{padding-right:32px}html body .p-b-5-xs{padding-bottom:32px}html body .p-l-5-xs{padding-left:32px}html body .p-h-5-xs{padding-left:32px;padding-right:32px}html body .p-v-5-xs{padding-top:32px;padding-bottom:32px}html body .p-5-xs{padding:32px}html body .m-t-5-xs{margin-top:32px}html body .m-r-5-xs{margin-right:32px}html body .m-b-5-xs{margin-bottom:32px}html body .m-l-5-xs{margin-left:32px}html body .m-h-5-xs{margin-left:32px;margin-right:32px}html body .m-v-5-xs{margin-top:32px;margin-bottom:32px}html body .p-t-6-xs{padding-top:40px}html body .p-r-6-xs{padding-right:40px}html body .p-b-6-xs{padding-bottom:40px}html body .p-l-6-xs{padding-left:40px}html body .p-h-6-xs{padding-left:40px;padding-right:40px}html body .p-v-6-xs{padding-top:40px;padding-bottom:40px}html body .p-6-xs{padding:40px}html body .m-t-6-xs{margin-top:40px}html body .m-r-6-xs{margin-right:40px}html body .m-b-6-xs{margin-bottom:40px}html body .m-l-6-xs{margin-left:40px}html body .m-h-6-xs{margin-left:40px;margin-right:40px}html body .m-v-6-xs{margin-top:40px;margin-bottom:40px}html body .p-t-7-xs{padding-top:64px}html body .p-r-7-xs{padding-right:64px}html body .p-b-7-xs{padding-bottom:64px}html body .p-l-7-xs{padding-left:64px}html body .p-h-7-xs{padding-left:64px;padding-right:64px}html body .p-v-7-xs{padding-top:64px;padding-bottom:64px}html body .p-7-xs{padding:64px}html body .m-t-7-xs{margin-top:64px}html body .m-r-7-xs{margin-right:64px}html body .m-b-7-xs{margin-bottom:64px}html body .m-l-7-xs{margin-left:64px}html body .m-h-7-xs{margin-left:64px;margin-right:64px}html body .m-v-7-xs{margin-top:64px;margin-bottom:64px}html body .m-t-auto-xs{margin-top:auto}html body .m-r-auto-xs{margin-right:auto}html body .m-b-auto-xs{margin-bottom:auto}html body .m-l-auto-xs{margin-left:auto}html body .m-auto-xs{margin:auto}@media only screen and (min-width:768px){html body .dsp-block-m{display:block}html body .dsp-inline-m{display:inline}html body .dsp-inline-block-m{display:inline-block}html body .dsp-none-m{display:none}html body .text-left-m{text-align:left}html body .text-right-m{text-align:right}html body .text-center-m{text-align:center}html body .float-left-m{float:left}html body .float-right-m{float:right}html body .float-none-m{float:none}html body .p-t-0-m{padding-top:0}html body .p-r-0-m{padding-right:0}html body .p-b-0-m{padding-bottom:0}html body .p-l-0-m{padding-left:0}html body .p-h-0-m{padding-left:0;padding-right:0}html body .p-v-0-m{padding-top:0;padding-bottom:0}html body .p-0-m{padding:0}html body .m-t-0-m{margin-top:0}html body .m-r-0-m{margin-right:0}html body .m-b-0-m{margin-bottom:0}html body .m-l-0-m{margin-left:0}html body .m-h-0-m{margin-left:0;margin-right:0}html body .m-v-0-m{margin-top:0;margin-bottom:0}html body .p-t-1-m{padding-top:4px}html body .p-r-1-m{padding-right:4px}html body .p-b-1-m{padding-bottom:4px}html body .p-l-1-m{padding-left:4px}html body .p-h-1-m{padding-left:4px;padding-right:4px}html body .p-v-1-m{padding-top:4px;padding-bottom:4px}html body .p-1-m{padding:4px}html body .m-t-1-m{margin-top:4px}html body .m-r-1-m{margin-right:4px}html body .m-b-1-m{margin-bottom:4px}html body .m-l-1-m{margin-left:4px}html body .m-h-1-m{margin-left:4px;margin-right:4px}html body .m-v-1-m{margin-top:4px;margin-bottom:4px}html body .p-t-2-m{padding-top:8px}html body .p-r-2-m{padding-right:8px}html body .p-b-2-m{padding-bottom:8px}html body .p-l-2-m{padding-left:8px}html body .p-h-2-m{padding-left:8px;padding-right:8px}html body .p-v-2-m{padding-top:8px;padding-bottom:8px}html body .p-2-m{padding:8px}html body .m-t-2-m{margin-top:8px}html body .m-r-2-m{margin-right:8px}html body .m-b-2-m{margin-bottom:8px}html body .m-l-2-m{margin-left:8px}html body .m-h-2-m{margin-left:8px;margin-right:8px}html body .m-v-2-m{margin-top:8px;margin-bottom:8px}html body .p-t-3-m{padding-top:16px}html body .p-r-3-m{padding-right:16px}html body .p-b-3-m{padding-bottom:16px}html body .p-l-3-m{padding-left:16px}html body .p-h-3-m{padding-left:16px;padding-right:16px}html body .p-v-3-m{padding-top:16px;padding-bottom:16px}html body .p-3-m{padding:16px}html body .m-t-3-m{margin-top:16px}html body .m-r-3-m{margin-right:16px}html body .m-b-3-m{margin-bottom:16px}html body .m-l-3-m{margin-left:16px}html body .m-h-3-m{margin-left:16px;margin-right:16px}html body .m-v-3-m{margin-top:16px;margin-bottom:16px}html body .p-t-4-m{padding-top:24px}html body .p-r-4-m{padding-right:24px}html body .p-b-4-m{padding-bottom:24px}html body .p-l-4-m{padding-left:24px}html body .p-h-4-m{padding-left:24px;padding-right:24px}html body .p-v-4-m{padding-top:24px;padding-bottom:24px}html body .p-4-m{padding:24px}html body .m-t-4-m{margin-top:24px}html body .m-r-4-m{margin-right:24px}html body .m-b-4-m{margin-bottom:24px}html body .m-l-4-m{margin-left:24px}html body .m-h-4-m{margin-left:24px;margin-right:24px}html body .m-v-4-m{margin-top:24px;margin-bottom:24px}html body .p-t-5-m{padding-top:32px}html body .p-r-5-m{padding-right:32px}html body .p-b-5-m{padding-bottom:32px}html body .p-l-5-m{padding-left:32px}html body .p-h-5-m{padding-left:32px;padding-right:32px}html body .p-v-5-m{padding-top:32px;padding-bottom:32px}html body .p-5-m{padding:32px}html body .m-t-5-m{margin-top:32px}html body .m-r-5-m{margin-right:32px}html body .m-b-5-m{margin-bottom:32px}html body .m-l-5-m{margin-left:32px}html body .m-h-5-m{margin-left:32px;margin-right:32px}html body .m-v-5-m{margin-top:32px;margin-bottom:32px}html body .p-t-6-m{padding-top:40px}html body .p-r-6-m{padding-right:40px}html body .p-b-6-m{padding-bottom:40px}html body .p-l-6-m{padding-left:40px}html body .p-h-6-m{padding-left:40px;padding-right:40px}html body .p-v-6-m{padding-top:40px;padding-bottom:40px}html body .p-6-m{padding:40px}html body .m-t-6-m{margin-top:40px}html body .m-r-6-m{margin-right:40px}html body .m-b-6-m{margin-bottom:40px}html body .m-l-6-m{margin-left:40px}html body .m-h-6-m{margin-left:40px;margin-right:40px}html body .m-v-6-m{margin-top:40px;margin-bottom:40px}html body .p-t-7-m{padding-top:64px}html body .p-r-7-m{padding-right:64px}html body .p-b-7-m{padding-bottom:64px}html body .p-l-7-m{padding-left:64px}html body .p-h-7-m{padding-left:64px;padding-right:64px}html body .p-v-7-m{padding-top:64px;padding-bottom:64px}html body .p-7-m{padding:64px}html body .m-t-7-m{margin-top:64px}html body .m-r-7-m{margin-right:64px}html body .m-b-7-m{margin-bottom:64px}html body .m-l-7-m{margin-left:64px}html body .m-h-7-m{margin-left:64px;margin-right:64px}html body .m-v-7-m{margin-top:64px;margin-bottom:64px}html body .m-t-auto-m{margin-top:auto}html body .m-r-auto-m{margin-right:auto}html body .m-b-auto-m{margin-bottom:auto}html body .m-l-auto-m{margin-left:auto}html body .m-auto-m{margin:auto}}@media only screen and (min-width:1024px){html body .dsp-block-l{display:block}html body .dsp-inline-l{display:inline}html body .dsp-inline-block-l{display:inline-block}html body .dsp-none-l{display:none}html body .text-left-l{text-align:left}html body .text-right-l{text-align:right}html body .text-center-l{text-align:center}html body .float-left-l{float:left}html body .float-right-l{float:right}html body .float-none-l{float:none}html body .p-t-0-l{padding-top:0}html body .p-r-0-l{padding-right:0}html body .p-b-0-l{padding-bottom:0}html body .p-l-0-l{padding-left:0}html body .p-h-0-l{padding-left:0;padding-right:0}html body .p-v-0-l{padding-top:0;padding-bottom:0}html body .p-0-l{padding:0}html body .m-t-0-l{margin-top:0}html body .m-r-0-l{margin-right:0}html body .m-b-0-l{margin-bottom:0}html body .m-l-0-l{margin-left:0}html body .m-h-0-l{margin-left:0;margin-right:0}html body .m-v-0-l{margin-top:0;margin-bottom:0}html body .p-t-1-l{padding-top:4px}html body .p-r-1-l{padding-right:4px}html body .p-b-1-l{padding-bottom:4px}html body .p-l-1-l{padding-left:4px}html body .p-h-1-l{padding-left:4px;padding-right:4px}html body .p-v-1-l{padding-top:4px;padding-bottom:4px}html body .p-1-l{padding:4px}html body .m-t-1-l{margin-top:4px}html body .m-r-1-l{margin-right:4px}html body .m-b-1-l{margin-bottom:4px}html body .m-l-1-l{margin-left:4px}html body .m-h-1-l{margin-left:4px;margin-right:4px}html body .m-v-1-l{margin-top:4px;margin-bottom:4px}html body .p-t-2-l{padding-top:8px}html body .p-r-2-l{padding-right:8px}html body .p-b-2-l{padding-bottom:8px}html body .p-l-2-l{padding-left:8px}html body .p-h-2-l{padding-left:8px;padding-right:8px}html body .p-v-2-l{padding-top:8px;padding-bottom:8px}html body .p-2-l{padding:8px}html body .m-t-2-l{margin-top:8px}html body .m-r-2-l{margin-right:8px}html body .m-b-2-l{margin-bottom:8px}html body .m-l-2-l{margin-left:8px}html body .m-h-2-l{margin-left:8px;margin-right:8px}html body .m-v-2-l{margin-top:8px;margin-bottom:8px}html body .p-t-3-l{padding-top:16px}html body .p-r-3-l{padding-right:16px}html body .p-b-3-l{padding-bottom:16px}html body .p-l-3-l{padding-left:16px}html body .p-h-3-l{padding-left:16px;padding-right:16px}html body .p-v-3-l{padding-top:16px;padding-bottom:16px}html body .p-3-l{padding:16px}html body .m-t-3-l{margin-top:16px}html body .m-r-3-l{margin-right:16px}html body .m-b-3-l{margin-bottom:16px}html body .m-l-3-l{margin-left:16px}html body .m-h-3-l{margin-left:16px;margin-right:16px}html body .m-v-3-l{margin-top:16px;margin-bottom:16px}html body .p-t-4-l{padding-top:24px}html body .p-r-4-l{padding-right:24px}html body .p-b-4-l{padding-bottom:24px}html body .p-l-4-l{padding-left:24px}html body .p-h-4-l{padding-left:24px;padding-right:24px}html body .p-v-4-l{padding-top:24px;padding-bottom:24px}html body .p-4-l{padding:24px}html body .m-t-4-l{margin-top:24px}html body .m-r-4-l{margin-right:24px}html body .m-b-4-l{margin-bottom:24px}html body .m-l-4-l{margin-left:24px}html body .m-h-4-l{margin-left:24px;margin-right:24px}html body .m-v-4-l{margin-top:24px;margin-bottom:24px}html body .p-t-5-l{padding-top:32px}html body .p-r-5-l{padding-right:32px}html body .p-b-5-l{padding-bottom:32px}html body .p-l-5-l{padding-left:32px}html body .p-h-5-l{padding-left:32px;padding-right:32px}html body .p-v-5-l{padding-top:32px;padding-bottom:32px}html body .p-5-l{padding:32px}html body .m-t-5-l{margin-top:32px}html body .m-r-5-l{margin-right:32px}html body .m-b-5-l{margin-bottom:32px}html body .m-l-5-l{margin-left:32px}html body .m-h-5-l{margin-left:32px;margin-right:32px}html body .m-v-5-l{margin-top:32px;margin-bottom:32px}html body .p-t-6-l{padding-top:40px}html body .p-r-6-l{padding-right:40px}html body .p-b-6-l{padding-bottom:40px}html body .p-l-6-l{padding-left:40px}html body .p-h-6-l{padding-left:40px;padding-right:40px}html body .p-v-6-l{padding-top:40px;padding-bottom:40px}html body .p-6-l{padding:40px}html body .m-t-6-l{margin-top:40px}html body .m-r-6-l{margin-right:40px}html body .m-b-6-l{margin-bottom:40px}html body .m-l-6-l{margin-left:40px}html body .m-h-6-l{margin-left:40px;margin-right:40px}html body .m-v-6-l{margin-top:40px;margin-bottom:40px}html body .p-t-7-l{padding-top:64px}html body .p-r-7-l{padding-right:64px}html body .p-b-7-l{padding-bottom:64px}html body .p-l-7-l{padding-left:64px}html body .p-h-7-l{padding-left:64px;padding-right:64px}html body .p-v-7-l{padding-top:64px;padding-bottom:64px}html body .p-7-l{padding:64px}html body .m-t-7-l{margin-top:64px}html body .m-r-7-l{margin-right:64px}html body .m-b-7-l{margin-bottom:64px}html body .m-l-7-l{margin-left:64px}html body .m-h-7-l{margin-left:64px;margin-right:64px}html body .m-v-7-l{margin-top:64px;margin-bottom:64px}html body .m-t-auto-l{margin-top:auto}html body .m-r-auto-l{margin-right:auto}html body .m-b-auto-l{margin-bottom:auto}html body .m-l-auto-l{margin-left:auto}html body .m-auto-l{margin:auto}}.w-4{font-weight:400}.w-5{font-weight:500}.w-6{font-weight:600}.w-7{font-weight:700}.w-8{font-weight:800}.trans55{opacity:.55}html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}.col-1-xs{width:8.33333%}.col-2-xs{width:16.66667%}.col-3-xs{width:25%}.col-4-xs{width:33.33333%}.col-5-xs{width:41.66667%}.col-6-xs{width:50%}.col-7-xs{width:58.33333%}.col-8-xs{width:66.66667%}.col-9-xs{width:75%}.col-10-xs{width:83.33333%}.col-11-xs{width:91.66667%}.col-12-xs{width:100%}.dsp-flex-xs{display:flex}.flex-wrap{flex-wrap:wrap}.flex-no-shrink{flex-shrink:0}.flex-grow{flex-grow:1}.flex-direction-column{flex-direction:column}.flex-align-items-flex-start-xs{align-items:flex-start}.flex-align-self-flex-start-xs{align-self:flex-start}.flex-align-items-flex-end-xs{align-items:flex-end}.flex-align-self-flex-end-xs{align-self:flex-end}.flex-align-items-center-xs{align-items:center}.flex-align-self-center-xs{align-self:center}.flex-align-items-baseline-xs{align-items:baseline}.flex-align-self-baseline-xs{align-self:baseline}.flex-align-items-stretch-xs{align-items:stretch}.flex-align-self-stretch-xs{align-self:stretch}.flex-align-content-flex-start-xs{align-content:flex-start}.flex-align-content-flex-end-xs{align-content:flex-end}.flex-align-content-center-xs{align-content:center}.flex-align-content-space-between-xs{align-content:space-between}.flex-align-content-space-around-xs{align-content:space-around}.flex-align-content-stretch-xs{align-content:stretch}.flex-justify-content-flex-start-xs{justify-content:flex-start}.flex-justify-content-flex-end-xs{justify-content:flex-end}.flex-justify-content-center-xs{justify-content:center}.flex-justify-content-space-between-xs{justify-content:space-between}.flex-justify-content-space-around-xs{justify-content:space-around}.flex-justify-content-space-evenly-xs{justify-content:space-evenly}.flex-grid{display:flex;flex-wrap:wrap;margin-left:-6px;margin-right:-6px}.col{padding-left:6px;padding-right:6px}@media only screen and (min-width:768px){.col-1-m{width:8.33333%}.col-2-m{width:16.66667%}.col-3-m{width:25%}.col-4-m{width:33.33333%}.col-5-m{width:41.66667%}.col-6-m{width:50%}.col-7-m{width:58.33333%}.col-8-m{width:66.66667%}.col-9-m{width:75%}.col-10-m{width:83.33333%}.col-11-m{width:91.66667%}.col-12-m{width:100%}.flex-align-items-flex-start-m{align-items:flex-start}.flex-align-self-flex-start-m{align-self:flex-start}.flex-align-items-flex-end-m{align-items:flex-end}.flex-align-self-flex-end-m{align-self:flex-end}.flex-align-items-center-m{align-items:center}.flex-align-self-center-m{align-self:center}.flex-align-items-baseline-m{align-items:baseline}.flex-align-self-baseline-m{align-self:baseline}.flex-align-items-stretch-m{align-items:stretch}.flex-align-self-stretch-m{align-self:stretch}.flex-align-content-flex-start-m{align-content:flex-start}.flex-align-content-flex-end-m{align-content:flex-end}.flex-align-content-center-m{align-content:center}.flex-align-content-space-between-m{align-content:space-between}.flex-align-content-space-around-m{align-content:space-around}.flex-align-content-stretch-m{align-content:stretch}.flex-justify-content-flex-start-m{justify-content:flex-start}.flex-justify-content-flex-end-m{justify-content:flex-end}.flex-justify-content-center-m{justify-content:center}.flex-justify-content-space-between-m{justify-content:space-between}.flex-justify-content-space-around-m{justify-content:space-around}.flex-justify-content-space-evenly-m{justify-content:space-evenly}.flex-grid{margin-left:-12px;margin-right:-12px}.col{padding-left:12px;padding-right:12px}}@media only screen and (min-width:1024px){.col-1-l{width:8.33333%}.col-2-l{width:16.66667%}.col-3-l{width:25%}.col-4-l{width:33.33333%}.col-5-l{width:41.66667%}.col-6-l{width:50%}.col-7-l{width:58.33333%}.col-8-l{width:66.66667%}.col-9-l{width:75%}.col-10-l{width:83.33333%}.col-11-l{width:91.66667%}.col-12-l{width:100%}.flex-align-items-flex-start-l{align-items:flex-start}.flex-align-self-flex-start-l{align-self:flex-start}.flex-align-items-flex-end-l{align-items:flex-end}.flex-align-self-flex-end-l{align-self:flex-end}.flex-align-items-center-l{align-items:center}.flex-align-self-center-l{align-self:center}.flex-align-items-baseline-l{align-items:baseline}.flex-align-self-baseline-l{align-self:baseline}.flex-align-items-stretch-l{align-items:stretch}.flex-align-self-stretch-l{align-self:stretch}.flex-align-content-flex-start-l{align-content:flex-start}.flex-align-content-flex-end-l{align-content:flex-end}.flex-align-content-center-l{align-content:center}.flex-align-content-space-between-l{align-content:space-between}.flex-align-content-space-around-l{align-content:space-around}.flex-align-content-stretch-l{align-content:stretch}.flex-justify-content-flex-start-l{justify-content:flex-start}.flex-justify-content-flex-end-l{justify-content:flex-end}.flex-justify-content-center-l{justify-content:center}.flex-justify-content-space-between-l{justify-content:space-between}.flex-justify-content-space-around-l{justify-content:space-around}.flex-justify-content-space-evenly-l{justify-content:space-evenly}}.bg-brand-p-100{background-color:#1ea69a}.bg-grey-45{background-color:#afb5b6}.c-white{color:#fff}.c-black{color:#20272d}.c-grey-1{color:#f5f6f7}.c-grey-5{color:#f2f2f2}.c-grey-10{color:#f5f6f7}.c-grey-15{color:#eef0f0}.c-grey-30{color:#dbdbdb}.c-grey-45{color:#afb5b6}.c-grey-100{color:#a9a9a9}.c-grey-200{color:#737c84}.c-grey-300{color:#676d73}.c-grey-400{color:#555765}.c-grey-500{color:#47505e}.c-grey-600{color:#36414d}.c-grey-700{color:#343854}.c-grey-800{color:#292c44}.c-grey-900{color:#212338}.c-brand-p-5{color:#f4fafa}.c-brand-p-10{color:#e8f6f5}.c-brand-p-20{color:#d1edeb}.c-brand-p-35{color:#b5e1dd}.c-brand-p-60{color:#7ecdc6}.c-brand-p-100{color:#1ea69a}.c-brand-s-5{color:#fef8f5}.c-brand-s-10{color:#fff2ec}.c-brand-s-20{color:#ffe5da}.c-brand-s-100{color:#ff7f45}.c-brand-s-200{color:#ff6d2c}.c-red-5{color:#fdf7f6}.c-red-40{color:#ecbab1}.c-red-100{color:#d4604b}.c-yellow-100{color:#ffbc00}.c-slate-100{color:#c1cad6}.c-slate-200{color:#73869b}</style><style type="text/css">._1RfKP {
+  overflow: auto;
+  border: 1px solid #dbdbdb;
+  border-radius: 5px; }
+  @media all and (min-width: 768px) {
+    ._1RfKP {
+      flex-direction: row; } }
+
+@media all and (min-width: 768px) {
+  ._1CuWL {
+    flex-direction: row; } }
+
+._2PbV5 {
+  min-width: 200px;
+  max-width: 300px;
+  overflow: hidden; }
+  ._2PbV5 > img {
+    border-radius: 5px; }
+</style>
+
+
+
+
+<script>
+  if(typeof ga != 'function') {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  }
+  ga('create', 'UA-44397410-1', 'auto', {'name': 'fedoraTracker', 'allowLinker': true});
+  ga('fedoraTracker.require', 'linker');
+  ga('fedoraTracker.linker:autoLink', ['learn.letskodeit.com'] );
+  ga('fedoraTracker.require', 'ecommerce');
+  ga('fedoraTracker.require', 'ec');
+  ga('fedoraTracker.send', 'pageview');
+  ga('create', 'UA-44397410-4', 'auto', {'name': 'teachableTracker', 'allowLinker': true});
+  ga('teachableTracker.require', 'linker');
+  ga('teachableTracker.linker:autoLink', ['learn.letskodeit.com'] );
+  ga('teachableTracker.require', 'ecommerce');
+  ga('teachableTracker.require', 'ec');
+  ga('teachableTracker.send', 'pageview');
+</script>
+
+<meta id="iris-url" data-iris-url="https://eventable.teachable.cloud">
+<link href="/blog/rss" rel="alternate" title="RSS Feed" type="application/rss+xml">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <style type="text/css">.fp__btn{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:inline-block;height:34px;padding:4px 30px 5px 40px;position:relative;margin-bottom:0;vertical-align:middle;-ms-touch-action:manipulation;touch-action:manipulation;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;font-family:"Open Sans", sans-serif;font-size:12px;font-weight:600;line-height:1.42857143;color:#fff;text-align:center;white-space:nowrap;background:#ef4925;background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAVCAYAAABLy77vAAAABGdBTUEAALGPC/xhBQAAAJRJREFUOBHNUcEWgCAIy14fbl9egK5MRarHQS7ocANmOCgWh1gdNERig1CgwPlLxkZuE80ndHlU+4Lda1zz0m01dSKtcz0h7qpQb7WR+HyrqRPxahzwwMqqkEVs6qnv+86NQAbcJlK/X+vMeMe7XcBOYaRzcbItUR7/8QgcykmElQrQPErnmxNxl2yyiwcgEvQUocIJaE6yERwqXDIAAAAASUVORK5CYII=");background-repeat:no-repeat;background-position:15px 6px;border:1px solid transparent;border-radius:17px}.fp__btn:hover{background-color:#d64533}.fp__btn::after{position:absolute;content:"";top:15px;right:14px;width:7px;height:4px;background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAICAYAAAA1BOUGAAAABGdBTUEAALGPC/xhBQAAAGlJREFUCB1j/P//vw4DA4MiEKOD+0xAkatA/AJNBsS/ysTIyPgfyDgHxO+hCkD0Oag4RAhoPDsQm4NoqCIGBiBnAhBjAxNAkkxAvBZNFsQHuQesmxPIOQZVAKI54UZDFYgABbcBsQhMAgDIVGYSqZsn6wAAAABJRU5ErkJggg==");}.fp__btn:hover::after{background-position:0 -4px;}.fp__btn:active,.fp__btn:focus{outline:none}@media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2){.fp__btn{background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAqCAYAAADbCvnoAAAABGdBTUEAALGPC/xhBQAAAQFJREFUWAntWEESwjAIbBwfHl+upNoRNjKUJhk5kIvZQGG7bHOwPGltgdYtEJedShKyJnLHhEILz1Zi9HCOzFI7FUqFLAWseDgPdfeQ9QZ4b1j53nstnEJJyBqx20NeT1gEMB5uZG6Fzn5lV5UMp1ASQhMjdnvoqjewsYbDjcytEH5lsxULp1AS0sx8nJfVnjganf3NkVlKhVPIfQ9Zb6jF0atK3mNriXwpicPHvIeyr3sTDA53VgpgH8BvMu1ZCCz7ew/7MPwlE4CQJPNnQj2ZX4SYlEPbVpsvKFZ5TOwhcRoUTQiwwhVjArPEqVvRhMCneMXzDk9lwYphIwrZZOihF32oehMAa1qSAAAAAElFTkSuQmCC");background-size:18px 21px}.fp__btn::after{background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAABGdBTUEAALGPC/xhBQAAANpJREFUKBWVkU8KglAYxJ/u3HuBwmUX8BqepKN4ka4RguDOVYu2QVCrhIJ6/caekqLiGxi+PzPD58PAWrszxmygD84h7hpePFLy1mEQBJamgvcVYXkqZXTR0LwpJWw0z0Ba6bymDcrI4kkp4EvzCNoVztNKfVATwoOiyx/NDup1SVqPQVBbDDeK3txBb9JuHfhNW3HWjZhDX+SGRAgPHkl5f0+kieBxRVieaPD5LGJ4WghLiwehbkBI4HUirF3S+SYrhhQ2f2H16aR5vMSYwbdjNtYXZ0J7cc70BXnFMHIGznzEAAAAAElFTkSuQmCC");background-size:7px 8px;}}</style></head>
+  <body style="padding-bottom: 131px;">
+          <meta http-content="IE=Edge" http-equiv="X-UA-Compatible">
+      <meta content="width=device-width,initial-scale=1.0,user-scalable=no" name="viewport">
+<meta id="fedora-keys" data-commit-sha="4f096ab9d3f6e57f0c266ddd46cc29af4a79f0b5" data-env="production" data-sentry-public-dsn="https://8149a85a83fa4ec69640c43ddd69017d@sentry.io/120346" data-stripe="pk_live_hkgvgSBxG4TAl3zGlXiB1KUX" data-track-all-ahoy="false" data-track-changes-ahoy="false" data-track-clicks-ahoy="false" data-track-sumbits-ahoy="false" data-filepicker="ADNupMnWyR7kCWRvm76Laz" data-taxamo="public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk" data-iris-url="https://eventable.teachable.cloud"><meta id="fedora-data" data-report-card="{}" data-course-ids="[]" data-role="null" data-last-four="null" data-completed-lecture-ids="[]" data-school-id="42299" data-school-launched="true" data-preview="logged_out" data-turn-off-fedora-branding="false" data-plan-supports-whitelabeling="false" data-powered-by-text="Powered by" data-asset-path="//https://fedora.teachablecdn.com/assets/footer/teachable-logo-white-efd32576079839534d5b6e87bf4424e99b12624f854b2c500a4d3f0b6e2af46b.svg" data-school-preferences="{&quot;ssl_forced&quot;:&quot;true&quot;,&quot;bazaar_enabled&quot;:&quot;false&quot;,&quot;paypal_enabled&quot;:&quot;true&quot;,&quot;autoplay_lectures&quot;:&quot;true&quot;,&quot;comments_threaded&quot;:&quot;true&quot;,&quot;themeable_enabled&quot;:&quot;false&quot;,&quot;course_blocks_beta&quot;:&quot;true&quot;,&quot;eu_vat_tax_enabled&quot;:&quot;false&quot;,&quot;legacy_back_office&quot;:&quot;true&quot;,&quot;themeable_disabled&quot;:&quot;false&quot;,&quot;comments_moderation&quot;:&quot;false&quot;,&quot;eu_vat_tax_eligible&quot;:&quot;true&quot;,&quot;charge_exclusive_tax&quot;:&quot;true&quot;,&quot;drip_content_enabled&quot;:&quot;false&quot;,&quot;autocomplete_lectures&quot;:&quot;false&quot;,&quot;class_periods_enabled&quot;:&quot;false&quot;,&quot;css_properties_enabled&quot;:&quot;false&quot;,&quot;preenrollments_enabled&quot;:&quot;false&quot;,&quot;native_comments_enabled&quot;:&quot;true&quot;,&quot;new_text_editor_enabled&quot;:&quot;true&quot;,&quot;require_terms_agreement&quot;:&quot;true&quot;,&quot;turn_off_fedora_branding&quot;:&quot;false&quot;,&quot;allow_comment_attachments&quot;:&quot;true&quot;,&quot;authors_can_email_students&quot;:&quot;false&quot;,&quot;authors_can_manage_coupons&quot;:&quot;false&quot;,&quot;teachable_accounts_enabled&quot;:&quot;false&quot;,&quot;teachable_payments_enabled&quot;:&quot;true&quot;,&quot;authors_can_import_students&quot;:&quot;false&quot;,&quot;authors_can_publish_courses&quot;:&quot;false&quot;,&quot;internal_subscriptions_beta&quot;:&quot;true&quot;,&quot;recaptcha_enabled_on_signup&quot;:&quot;true&quot;,&quot;tax_form_collection_enabled&quot;:&quot;true&quot;,&quot;display_vat_inclusive_prices&quot;:&quot;true&quot;,&quot;single_page_checkout_enabled&quot;:&quot;true&quot;,&quot;authors_can_set_course_prices&quot;:&quot;false&quot;,&quot;authors_can_issue_certificates&quot;:&quot;false&quot;,&quot;store_student_cards_separately&quot;:&quot;true&quot;,&quot;authors_can_manage_certificates&quot;:&quot;false&quot;,&quot;authors_can_manage_course_pages&quot;:&quot;false&quot;,&quot;prevent_new_coupon_applications&quot;:&quot;true&quot;,&quot;disable_js_course_event_tracking&quot;:&quot;false&quot;,&quot;exclusive_vat_on_custom_gateways&quot;:&quot;true&quot;,&quot;owner_teachable_accounts_required&quot;:&quot;false&quot;,&quot;prevent_payment_plan_cancellation&quot;:&quot;true&quot;,&quot;automatically_add_disqus_attachments&quot;:&quot;true&quot;,&quot;recalc_course_pct_on_lecture_publish&quot;:&quot;false&quot;,&quot;turn_off_myteachable_sign_up_branding&quot;:&quot;false&quot;}" data-accessible-features="[&quot;bulk_enroll_students&quot;,&quot;manually_importing_users&quot;,&quot;earnings_statements&quot;,&quot;teachable_payments&quot;,&quot;teachable_u&quot;,&quot;page_editor_v2&quot;,&quot;featured_courses_v2&quot;,&quot;drip_content&quot;,&quot;custom_domain&quot;,&quot;coupons&quot;,&quot;email&quot;,&quot;webhooks&quot;,&quot;integrations&quot;,&quot;teachable_payments_payout_view&quot;,&quot;facebook_pixel&quot;,&quot;user_search_filters&quot;,&quot;new_device_confirmation&quot;,&quot;elasticsearch_users&quot;,&quot;elasticsearch_transactions&quot;,&quot;reset_progress&quot;,&quot;stripe_payment_intents_api&quot;,&quot;stripe_payment_intents_for_subscriptions&quot;,&quot;use_course_pricing_options_table&quot;,&quot;fraud_warnings&quot;,&quot;multiple_course_pages&quot;]" data-course-data="{}" data-vat-country="null" data-hellosign-id="null"><meta id="analytics-keys" name="analytics" data-analytics="{}">
+    
+    
+      <!-- HEADER -->
+<header class="">
+  <!-- Navbar -->
+  <div class="navbar navbar-fedora navbar-fixed-top is-at-top bs-docs-nav is-not-signed-in hide-nav-background-color" id="navbar" role="navigation">
+    <div class="container">
+      <div class="navbar-header navbar-header-courses">
+        <button class="navbar-toggle" data-target=".navbar-header-collapse" data-toggle="collapse" type="button">
+          <span class="sr-only">
+            Toggle navigation
+          </span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <!-- Site logo -->
+        
+          <a class="navbar-brand header-logo" href="https://learn.letskodeit.com">
+            <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/WSundQ6BT6u2OZe2kcNA" alt="Let's Kode It" srcset="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:120/https://www.filepicker.io/api/file/WSundQ6BT6u2OZe2kcNA 2x">
+          </a>
+          
+
+        <!-- Header Menu -->
+        <div class="collapse navbar-collapse navbar-header-collapse">
+          <ul class="nav navbar-nav navbar-right">
+  
+
+  
+  <li>
+    
+    <a class="fedora-navbar-link navbar-link" href="/pages/practice" target="">
+      Practice
+    </a>
+    
+  </li>
+  
+
+  <!-- If more than 5 links, collapse the rest in a dropdown -->
+  
+
+  
+    
+      <li>
+        <a class="navbar-link fedora-navbar-link" href="/sign_in">
+          Login
+        </a>
+      </li>
+    
+    
+      <li>
+        <a class="btn btn-primary pull-right btn-lg" id="header-sign-up-btn" href="/sign_up">
+          Sign Up
+        </a>
+      </li>
+    
+  
+</ul>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+      <div role="main" class="view-school">
+    
+      
+  
+
+  
+
+  
+
+  
+    <div class="blocks-page blocks-page-rich_text " id="blocks-page-94914">
+  
+  
+    <!-- in live preview mode we add an extra wrapper around each block, and remove the `block.show` check -->
+
+  
+    
+
+      
+
+      
+        <div class="course-block block rich_text " id="block-1069048">
+      
+
+        <div class="container">
+  <div class="row">
+    <div class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2 course-description">
+      
+        <style>
+	h1 {
+		margin-bottom: 30px;
+	}
+	select {
+  		font-size: 14px;
+		width: 120px;
+		height: 30px;
+		border: 2px solid #39949a;
+		-moz-border-radius: 3px;
+		-webkit-border-radius: 3px;
+		border-radius: 3px;
+	}
+	.dropbtn {
+    		background-color: #39949a; /* #4CAF50; */
+    		color: white;
+    		padding: 16px;
+    		font-size: 16px;
+    		border: none;
+    		cursor: pointer;
+		-moz-border-radius: 3px;
+		-webkit-border-radius: 3px;
+		border-radius: 3px;
+	}
+	.btn-style {
+    		background-color: #39949a;
+    		color: white;
+    		padding: 10px;
+    		font-size: 14px;
+    		border: none;
+    		cursor: pointer;
+		-moz-border-radius: 3px;
+		-webkit-border-radius: 3px;
+		border-radius: 3px;
+	}
+	/* The container <div> - needed to position the mouse-hover content */
+	.mouse-hover {
+    		/* position: relative;
+    		display: inline-block; */
+	}
+	/* mouse-hover Content (Hidden by Default) */
+	.mouse-hover-content {
+    		display: none;
+		position: absolute;
+    		background-color: #f9f9f9;
+    		min-width: 160px;
+    		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	}
+	/* Links inside the mouse-hover */
+	.mouse-hover-content a {
+    		color: black;
+    		padding: 12px 16px;
+    		text-decoration: none;
+    		display: block;
+	}
+	/* Change color of mouse-hover links on hover */
+	.mouse-hover-content a:hover {
+		background-color: #f1f1f1
+	}
+	/* Show the mouse-hover menu on hover */
+	.mouse-hover:hover .mouse-hover-content {
+    		display: block;
+	}
+	/* Change the background color of the mouse-hover button when the mouse-hover content is shown */
+	.mouse-hover:hover .dropbtn {
+		background-color: #3e8e41;
+	}
+	fieldset {
+  		font-size: 14px;
+  		/* border: 2px solid #000; */
+  		/*padding: 1em;*/
+  		padding: .2em;
+  		border-radius: 0.5em;
+	}
+	legend {
+   		font-size: 14px;
+		width: auto;
+   		color: #fff;
+   		background: #2b3636;
+   		padding: 0.25em 1em;
+   		border-radius: 1em;
+	}
+	/* One radio button per line */
+	label {
+    		display: block;
+    		cursor: pointer;
+    		line-height: 2;
+    		font-size: 1em;
+	}
+	body {
+        	font-family:"Trebuchet MS", Arial, sans-serif;
+    	}
+    	#product{
+        	font-family:"Trebuchet MS", Arial, sans-serif;
+        	width:400px;
+        	border-collapse:separate;
+		/* border-spacing:10px; */
+		/* margin-left: 200px; */
+    	}
+	#product td, #product th{
+		border:1px solid #39949a; /* #4CAF50; */
+		padding:3px 7px 2px 7px;
+		font-size:1em;
+	}
+    	#product th{
+		font-size:1.1em;
+		padding-top:5px;
+		padding-bottom:4px;
+		background-color: #39949a;
+		color: #fff;
+		color: antiquewhite
+	}
+	.left-align {
+		float: left;
+    	}
+	.right-align{
+        	font-family:"Trebuchet MS", Arial, sans-serif;
+        	/*width:400px; */
+        	/*margin-left: 100px;*/
+        	float: right;
+    	}
+    	.cen-align{
+        	font-family:"Trebuchet MS", Arial, sans-serif;
+        	/*width:400px; */
+        	margin-left: 150px;
+		margin-right: 100px;
+        	float: left;
+    	}
+	.cen-left-align{
+        	font-family:"Trebuchet MS", Arial, sans-serif;
+        	/*width:400px; */
+        	margin-left: 70px;
+		margin-right: 30px;
+        	float: left;
+    	}
+	.cen-right-align{
+        	font-family:"Trebuchet MS", Arial, sans-serif;
+        	/*width:400px; */
+        	margin-left: 60px;
+		margin-right: 30px;
+        	float: left;
+	}
+    	.block{
+		width: 900px;
+        	position: relative;
+    		display: inline-block;
+        	margin: 0px 0px 2px 20px;
+        	margin-top: 2px;
+        	margin-bottom: 20px;
+        	margin-left: 20px;
+        	text-align: justify;
+        	border-bottom: .5px solid;
+        	border-bottom-color: #2b3636;
+    	}
+    	.table-display{
+        	width:400px;
+        	padding: .5em;
+        	margin: 0px 20px 20px 10px;
+    	}
+    	.default-row-spacer{
+        	margin-bottom: 10px;
+    	}
+    	.large-row-spacer{
+        	margin-bottom: 20px;
+    	}
+	inputs:-webkit-input-placeholder {
+		color: #b5b5b5;
+	}
+	inputs-moz-placeholder {
+		color: #b5b5b5;
+	}
+	.inputs {
+		background: #f5f5f5;
+		font-size: 14px;
+		-moz-border-radius: 3px;
+		-webkit-border-radius: 3px;
+		border-radius: 3px;
+		border: none;
+		padding: 13px 10px;
+		/* width: 270px; */
+		margin-bottom: 20px;
+		box-shadow: inset 0 2px 3px rgba( 0, 0, 0, 0.1 );
+		clear: both;
+	}
+	.inputs:focus {
+		background: #fff;
+		box-shadow: 0 0 0 3px #39949a, inset 0 2px 3px rgba( 0, 0, 0, 0.2 ), 0px 5px 5px rgba( 0, 0, 0, 0.15 );
+		outline: none;
+	}
+</style>
+<script>	var myWin;
+	function openWindow() {
+		myWin = window.open("http://letskodeit.teachable.com/courses", "myWin", "width=1200, height=600, top=100, left=100, scrollbars=yes, resizable=yes");
+	}
+	function winFocus() {
+		myWin.focus();
+	}
+	function displayAlert() {
+		var value = document.getElementById("name").value;
+		alert("Hello " + value + ", share this practice page and share your knowledge");
+		document.getElementById("name").value = "";
+	}
+	function displayConfirm() {
+		var value = document.getElementById("name").value;
+		confirm("Hello " + value + ", Are you sure you want to confirm?")
+		document.getElementById("name").value = "";
+	}
+	function hideElement() {
+		var x = document.getElementById("displayed-text");
+		//style.visibility = "hidden";
+		x.style.display = "none";
+	}
+	function showElement() {
+		var x = document.getElementById("displayed-text");
+		//style.visibility = "visible";
+		x.style.display = "block";
+	}
+</script>
+<h1>Practice Page</h1>
+<div class="block large-row-spacer">
+	<div class="left-align" id="radio-btn-example">
+		<fieldset>
+			<legend>Radio Button Example</legend>
+			<label for="bmw">
+			<input id="bmwradio" value="bmw" name="cars" type="radio"> BMW
+			</label>
+			<label for="benz">
+			<input id="benzradio" value="benz" name="cars" type="radio"> Benz
+			</label>
+			<label for="honda">
+			<input id="hondaradio" value="honda" name="cars" type="radio"> Honda
+			</label>
+		</fieldset>
+	</div>
+	<div class="cen-left-align" id="select-class-example">
+		<fieldset>
+			<legend>Select Class Example</legend>
+			<select id="carselect" name="cars">
+				<option value="bmw">BMW</option>
+				<option value="benz">Benz</option>
+				<option value="honda">Honda</option>
+			</select>
+		</fieldset>
+	</div>
+	<div class="cen-right-align">
+		<fieldset>
+			<legend>Multiple Select Example</legend>
+			<select multiple="" size="3" id="multiple-select-example" name="multiple-select-example">
+				<option value="apple">Apple</option>
+				<option value="orange">Orange</option>
+				<option value="peach">Peach</option>
+			</select>
+		</fieldset>
+	</div>
+	<div class="right-align" id="checkbox-example">
+		<fieldset>
+			<legend>Checkbox Example</legend>
+			<label for="bmw">
+			<input id="bmwcheck" value="bmw" name="cars" type="checkbox"> BMW
+			</label>
+			<label for="benz">
+			<input id="benzcheck" value="benz" name="cars" type="checkbox"> Benz
+			</label>
+			<label for="honda">
+			<input id="hondacheck" value="honda" name="cars" type="checkbox"> Honda
+			</label>
+		</fieldset>
+	</div>
+</div>
+<div class="block large-row-spacer">
+	<div class="left-align">
+		<fieldset>
+			<legend>Switch Window Example</legend>
+			<button id="openwindow" class="btn-style class1" onclick="openWindow()">Open Window</button>
+		</fieldset>
+	</div>
+	<div class="cen-align">
+		<fieldset>
+			<legend>Switch Tab Example</legend>
+			<a id="opentab" class="btn-style class1 class2" href="http://letskodeit.teachable.com/courses" target="_blank">Open Tab</a>
+		</fieldset>
+	</div>
+	<div class="right-align">
+		<fieldset>
+			<legend>Switch To Alert Example</legend>
+			<input id="name" name="enter-name" class="inputs" placeholder="Enter Your Name" type="text">
+			<input id="alertbtn" class="btn-style" value="Alert" onclick="displayAlert()" type="submit">
+			<input id="confirmbtn" class="btn-style" value="Confirm" onclick="displayConfirm()" type="submit">
+		</fieldset>
+	</div>
+</div>
+<div class="block large-row-spacer">
+	<div class="left-align">
+		<fieldset>
+			<legend>Web Table Example</legend>
+			<table id="product" name="courses" class="table-display" border="1">
+			<tbody>
+			<tr>
+				<th>Author</th>
+				<th>Course</th>
+				<th>Price</th>
+			</tr>
+			<tr>
+				<td>Let's Kode It</td>
+				<td>Selenium WebDriver With Java</td>
+				<td>35</td>
+			</tr>
+			<tr>
+				<td>Let's Kode It</td>
+				<td>Python Programming Language</td>
+				<td>30</td>
+			</tr>
+			<tr>
+				<td>Let's Kode It</td>
+				<td>JavaScript Programming Language</td>
+				<td>25</td>
+			</tr>
+			</tbody>
+			</table>
+		</fieldset>
+	</div>
+	<div class="right-align">
+		<fieldset>
+			<legend>Element Displayed Example</legend>
+			<input id="hide-textbox" class="btn-style class2" value="Hide" onclick="hideElement()" type="submit">
+			<input id="show-textbox" class="btn-style class2" value="Show" onclick="showElement()" type="submit">
+			<br><br>
+			<input id="displayed-text" name="show-hide" class="inputs displayed-class" placeholder="Hide/Show Example" type="text">
+		</fieldset>
+	</div>
+</div>
+<div class="block large-row-spacer">
+	<div class="left-align">
+		<fieldset style="margin-bottom:60px">
+			<legend>Mouse Hover Example</legend>
+			<div class="mouse-hover">
+				<button id="mousehover" class="dropbtn">Mouse Hover</button>
+				<div class="mouse-hover-content">
+					<a href="#top">Top</a>
+					<a href="">Reload</a>
+				</div>
+			</div>
+		</fieldset>
+	</div>
+</div>
+<div class="block large-row-spacer">
+	<fieldset>
+		<legend>iFrame Example</legend>
+		<iframe id="courses-iframe" src="https://learn.letskodeit.com/courses" name="iframe-name" style="width: 100%; height: 600px" scrolling="yes" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0">
+		</iframe>
+	</fieldset>
+</div>
+      
+    </div>
+  </div>
+</div>
+
+
+      
+        </div>
+      
+
+    
+  
+
+
+  
+
+  
+    </div>
+  
+
+
+
+
+
+      
+        
+<footer class="bottom-menu bottom-menu-inverse">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-4 col-md-4 footer-column">
+        <p>
+          ©
+          Let's Kode It
+          2020
+        </p>
+      </div>
+      <div class="col-xs-12 col-sm-4 col-md-4 footer-column">
+        <ul class="list-unstyled">
+          <li>
+            <a href="/p/terms">
+              Terms of Use
+            </a>
+          </li>
+          <li>
+            <a href="/p/privacy">
+              Privacy Policy
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-xs-12 col-sm-4 col-md-4 footer-column">
+        
+        
+          
+            <ul class="list-unstyled">
+              <li>
+                
+                  <a class="powered-by" href="https://teachable.com/?src=school_footer">
+                    Powered by <img src="https://fedora.teachablecdn.com/assets/footer/teachable-logo-white-efd32576079839534d5b6e87bf4424e99b12624f854b2c500a4d3f0b6e2af46b.svg" class="powered-by-logo" target="_blank" rel="noopener" alt="Teachable">
+                  </a>
+                
+              </li>
+            </ul>
+          
+        
+        </div>
+
+      </div>
+    </div>
+  </footer></div>
+
+
+
+      
+      
+        
+      
+    
+    
+  
+
+<iframe name="filepicker_comm_iframe" id="filepicker_comm_iframe" src="https://dialog.filestackapi.com/dialog/comm_iframe/" style="display: none;"></iframe><iframe name="fpapi_comm_iframe" id="fpapi_comm_iframe" src="https://www.filestackapi.com/dialog/comm_iframe/" style="display: none;"></iframe></body></html>
