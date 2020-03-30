@@ -1,0 +1,5 @@
+03/29/2020 06:11:03 PM: LoggingDemo, DEBUG: Debug Message
+03/29/2020 06:11:03 PM: LoggingDemo, INFO: Info Message
+03/29/2020 06:11:03 PM: LoggingDemo, INFO: Warn Message
+03/29/2020 06:11:03 PM: LoggingDemo, INFO: Error Message
+03/29/2020 06:11:03 PM: LoggingDemo, INFO: Critical Message
