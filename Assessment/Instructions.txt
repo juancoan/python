@@ -1,0 +1,13 @@
+Instructions:
+
+Here you will find some documents that will allow you to review the QA effort planned for this sprint/iteration cycle:
+
+First, take a look at the test plan where we detailed the high level items we will be testing, how they will be tested and what tools, people will be involved on it. Any risks and assumptions will also be included.
+
+Second, the test cases that derived form that test plan. There are some scenarios that cover the creation, deletion, update and view of the computer items on the page and some extra scenarios that were considered important.
+
+Last but not least a simple automation script that was created to cover the creation scenario of a computer entry.
+
+Please if you have any questions, feedback or suggestions, please let me know asap and we will consider it.
+
+Thanks
