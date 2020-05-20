@@ -6,7 +6,8 @@ First, take a look at the test plan where we detailed the high level items we wi
 
 Second, the test cases that derived form that test plan. There are some scenarios that cover the creation, deletion, update and view of the computer items on the page and some extra scenarios that were considered important.
 
-Last but not least a simple automation script that was created to cover the creation scenario of a computer entry.
+Last but not least a folder called "Assessment" that contains very simple automation scripts developed in Python + Selenium technology that were created to cover:
+the creation, deletion, update and reading scenarios of a computer entry.
 
 Please if you have any questions, feedback or suggestions, please let me know asap and we will consider it.
 
