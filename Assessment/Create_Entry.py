@@ -4,6 +4,11 @@ import time
 from selenium.webdriver.support.select import Select
 
 
+"""
+Created by Juan Antonio Cordoba
+Class for creating a new computer entry.
+"""
+
 class Computer_DB():
     def Create_Entry(self):
         driver = webdriver.Chrome()

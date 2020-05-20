@@ -1,7 +1,12 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-from selenium.webdriver.support.select import Select
+
+
+"""
+Created by Juan Antonio Cordoba
+Class for reading a computer entry.
+"""
 
 
 class Computer_DB():
