@@ -14,6 +14,14 @@ Please if you have any questions, feedback or suggestions, please let me know as
 Thanks
 
 
+
+Glosary
+Test plan -> High level overview document explaining how the team will work during the cycle
+Test cases -> Scenarios under which we will submit the application to see its behavior/outcome.
+Script -> File containing a secuence of steps that will be performed by the computer
+
+
+
 """
 Created by Juan Antonio Cordoba
 """
