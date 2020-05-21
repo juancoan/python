@@ -9,7 +9,7 @@ Second, the test cases that derived form that test plan. There are some scenario
 Last but not least a folder called "Assessment" that contains very simple automation scripts developed in Python + Selenium technology that were created to cover:
 the creation, deletion, update and reading scenarios of a computer entry.
 
-Please if you have any questions, feedback or suggestions, please let me know asap and we will consider it.
+Please if you have any questions, feedback or suggestions, please let me know asap and we will consider it. Email me at wivercr@gmail.com
 
 Thanks
 
