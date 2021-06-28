@@ -14,7 +14,7 @@ class BrowserInteractions():
         Element1.click()
         time.sleep(5)
 
-        Element2 = driver.find_element_by_id("benzradio")
+        Element2 = driver.find_element_by_xpath("benzradio")
         Element2.click()
         time.sleep(5)
 
