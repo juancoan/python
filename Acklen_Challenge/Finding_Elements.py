@@ -49,8 +49,8 @@ class AcklenAvenueChallenge():
         CalculateBtn = driver.find_element(By.XPATH, "//body/form[1]/input[2]")
         CalculateBtn.click()
 
-        driver.quit()
+        #driver.quit()
 
 
 Chlg = AcklenAvenueChallenge()
-Chr.Challenge()
+Chlg.Challenge()
