@@ -43,13 +43,14 @@ class AcklenAvenueChallenge():
 
         AM_radiobtn = driver.find_element_by_xpath("//tbody/tr[3]/td[2]/input[3]")
         AM_radiobtn.click()
-        time.sleep(10)
+
 
         #Clicking the Calculate btn to execute a basic happy path escenario.
         CalculateBtn = driver.find_element(By.XPATH, "//body/form[1]/input[2]")
         CalculateBtn.click()
 
-        #driver.quit()
+        time.sleep(8)
+        driver.quit()
 
 
 Chlg = AcklenAvenueChallenge()
