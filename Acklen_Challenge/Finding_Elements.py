@@ -16,7 +16,8 @@ class AcklenAvenueChallenge():
         sel = Select(
             ParkingLotDropdown)
         sel.select_by_value("Economy")
-        # sel.select_by_index("2")  # use the index property to find the option I want
+        # sel.select_by_index("2")  # use the index property to find the option I want,
+        #In case you want to use indexes to find the elements.
 
         #Finding and filling the entry date & time and AM/PM radio btn
         EntryDate_Field = driver.find_element(By.ID, "StartingDate")
