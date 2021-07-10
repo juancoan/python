@@ -45,3 +45,7 @@ class Assert_Demo(unittest.TestCase):#Inheriting from the Test Case class on uni
     #Making the call to run the tests.
     if __name__ == '__main__':
         unittest.main(verbosity=2)
+
+
+# You can run individual tests by right clicking on the test methode
+#Also if 1 test fails it will not continue on the next line, it will just jump to the other test.
