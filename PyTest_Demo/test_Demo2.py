@@ -15,7 +15,7 @@ import pytest
 def setUp():
     print("Runs D2 ONCE BEFORE EVERY method")
     yield #has to be included to indicate what will run after every method.
-    print("Runs D2 ONCE AFTER EVERY method")
+    print("Runs D3 ONCE AFTER EVERY method")
 
 def test_demo2_MethodA(setUp): #addung the name of the method that is a fixture
     print("Method A - Demo 2")
