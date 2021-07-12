@@ -11,7 +11,7 @@ On the setUp() method, you have to add a PyTest decorator, to make it like a fix
 """
 import pytest
 
-@pytest.yield_fixture() #decorator to run BEFORE & AFTER every method
+@pytest.fixture() #decorator to run BEFORE & AFTER every method
 def setUp():
     print("Runs D2 ONCE BEFORE EVERY method")
     yield #has to be included to indicate what will run after every method.

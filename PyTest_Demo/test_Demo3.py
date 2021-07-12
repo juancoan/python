@@ -23,7 +23,7 @@ adding the switches to the command:
 """
 import pytest
 
-@pytest.yield_fixture() #decorator to run BEFORE & AFTER every method
+@pytest.fixture() #decorator to run BEFORE & AFTER every method
 def setUp():
     print("Runs Setup D3 ONCE BEFORE EVERY method - setUp")
     yield #has to be included to indicate what will run after every method.

@@ -21,22 +21,23 @@ adding the switches to the command:
 -v ---> add verbosity
 -s ---> to print statements
 """
-
-"""
-#setUp and tearDown fixture are located now on the conftest.py file on the same package
-#On that same file there is a new method that is to run the setup/teardown only ONCE!, and
-#the name of that method has to be added as a parameter on each test method, if you want ot use both or just 1,
-#either to run before/after every test OR only ONCE before ALL test methods and only ONCE after all methods.
-
-Using the conftest file where the setUP() method is, will have those methods there and will not need to be 
-added here, so code is cleaner. When you run test_conftest_demo.py it will load that setUP() method from here
-
-"""
-
 import pytest
 
-def test_demo1_ConfTestA(oneTimeSetUp, setUp): #addung the name of the method that is a fixture
-    print("Running ConfTest A Demo 1 - ConfTest")
+#setUp and tearDown fixture are located now on the conftest.py file on the same package
+# install the pytest-order plugin to deal with the ordering
 
-def test_demo1_ConfTestB(oneTimeSetUp, setUp): #addung the name of the method that is a fixture
-    print("Running ConfTest B Demo 1 - ConfTest")
+
+def test_cmdline_ConfTestA(oneTimeSetUp, setUp): #addung the name of the method that is a fixture
+    print("Running method A - ConfTest")
+
+
+def test_cmdline_ConfTestB(oneTimeSetUp, setUp): #addung the name of the method that is a fixture
+    print("unning method B - ConfTest")
+
+
+def test_cmdline_ConfTestC(oneTimeSetUp, setUp): #addung the name of the method that is a fixture
+    print("unning method C - ConfTest")
+
+
+# To run it with arguments, it will be:
+#python -m pytest -v -s test_command_line_args.py --browser firefox
