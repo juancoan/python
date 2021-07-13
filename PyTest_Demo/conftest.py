@@ -7,14 +7,19 @@ def setUp():
     print("Running method level tearDown")
 
 
-@pytest.fixture(scope="module")
-def oneTimeSetUp(browser, osType):
+@pytest.fixture(scope="class") #can be session, module, class
+def oneTimeSetUp(request, browser, osType):
     print("Running one time setUp")
     if browser == 'firefox':
+        value = 10 #SomeClassToTest() class parameter to validate with assert, based on condittion
         print("Running tests on FF")
     else:
+        value = 20 #SomeClassToTest() class parameter to validate with assert
         print("Running tests on chrome")
-    yield
+
+    if request.cls is not None: #class atribute from the request is not NONE
+        request.cls.value = value #will make it class atribute
+    yield value
     print("Running one time tearDown")
 
 def pytest_addoption(parser):
